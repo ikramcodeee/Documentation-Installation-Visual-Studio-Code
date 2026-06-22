@@ -33,7 +33,7 @@ A step-by-step installation guide for Visual Studio Code on Windows, written for
 - Configuration options presented in a comparison table
 - Troubleshooting section for common issues
 - Next steps to help users get started immediately
-📄 [Read the documentation](.https://github.com/ikramcodeee/Documentation-Installation-Visual-Studio-Code.git)
+📄 [Read the documentation] (https://github.com/ikramcodeee/Documentation-Installation-Visual-Studio-Code)
  
 ---
  
