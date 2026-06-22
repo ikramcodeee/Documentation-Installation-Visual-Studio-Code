@@ -45,12 +45,4 @@ A step-by-step installation guide for Visual Studio Code on Windows, written for
 - **Version Control:** Git, GitHub
 ---
  
-## 🚀 What's Next
- 
-I'm currently working on expanding this portfolio with:
-- [ ] API Documentation (Mock REST API)
-- [ ] Standard Operating Procedure (SOP)
-- [ ] Tutorial article on Medium/Dev.to
----
- 
 *Last updated: June 2025*
