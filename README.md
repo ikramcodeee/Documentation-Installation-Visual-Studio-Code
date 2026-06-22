@@ -6,7 +6,7 @@
  
 ## 👋 About Me
  
-Hi! I'm **Muhammad Aqlifa Ikramulah**, a Software Engineering student at Universitas Pembangunan Panca Budi Medan with a growing interest in technical writing. I enjoy turning complex technical processes into easy-to-understand documentation.
+Hi! I'm **Muhammad Aqlifa Ikramulah**, a Information Technology student at Universitas Pembangunan Panca Budi Medan and also a freshgraduate from State Polytechnic of Medan Who is continuing the extension from Diploma 3 to Bachelor Degree with a growing interest in technical writing. I enjoy turning complex technical processes into easy-to-understand documentation.
  
 📧 Reach me at: *aqlifaikramulah@gmail.com*  
 🔗 LinkedIn: *https://www.linkedin.com/in/muhammad-aqlifa-ikramulah/*
